@@ -271,7 +271,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/AM_MovieHd">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a https://t.me/AM_MovieHd>[AM_MovieHd]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/AM_MovieHd">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a https://t.me/AM_MovieHd>[@AM_MovieHd]</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🏷 Title</b>: <a href={url}>{title}</a>
